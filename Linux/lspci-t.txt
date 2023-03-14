@@ -1,0 +1,15 @@
+-[0000:00]-+-00.0  Intel Corporation 12th Gen Core Processor Host Bridge/DRAM Registers
+           +-01.0-[01-03]----00.0-[02-03]----00.0-[03]--+-00.0  Advanced Micro Devices, Inc. [AMD/ATI] Navi 23 [Radeon RX 6600/6600 XT/6600M]
+           |                                            \-00.1  Advanced Micro Devices, Inc. [AMD/ATI] Navi 21/23 HDMI/DP Audio Controller
+           +-02.0  Intel Corporation Alder Lake-P Integrated Graphics Controller
+           +-06.0-[04]----00.0  Kingston Technology Company, Inc. Device 501b
+           +-14.0  Intel Corporation Alder Lake PCH USB 3.2 xHCI Host Controller
+           +-14.2  Intel Corporation Alder Lake PCH Shared SRAM
+           +-16.0  Intel Corporation Alder Lake PCH HECI Controller
+           +-17.0  Intel Corporation Alder Lake-P SATA AHCI Controller
+           +-1d.0-[05]----00.0  Intel Corporation Ethernet Controller I225-V
+           +-1d.1-[06]----00.0  Intel Corporation Wi-Fi 6 AX210/AX211/AX411 160MHz
+           +-1f.0  Intel Corporation Alder Lake PCH eSPI Controller
+           +-1f.3  Intel Corporation Alder Lake PCH-P High Definition Audio Controller
+           +-1f.4  Intel Corporation Alder Lake PCH-P SMBus Host Controller
+           \-1f.5  Intel Corporation Alder Lake-P PCH SPI Controller
