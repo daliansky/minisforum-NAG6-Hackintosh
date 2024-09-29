@@ -60,6 +60,13 @@
 
 ## 更新日志
 
+- 9-29-2024
+
+  - 更新 `OpenCore` `v1.0.2` 开发版
+  - 更新 `IOSkywalkFamily.kext` 到 `v1.2.0`
+  - 支持 `Sequoia` (博通无线网卡)
+  - `Sequoia` 如果想更新到 `15.0` 请务必先更新 `EFI` ，然后再安装 [OCLP](https://pan.daliansky.net/APPS/OCLP/OCLP.md)，重启后，再升级到 `15.0` 否则会出现 `WIFI` 无法启用的问题
+
 - 3-11-2024
 
   - 更新`OpenCore Mod` 到 `v0.9.9`
@@ -76,7 +83,7 @@
 
 ## 截图
 
-![NAG6_OC](./ScreenShots/NAG6_OC.png)
+![NAG6_OC](./ScreenShots/NAG6_Sequoia.png)
 
 ![NAG6](./ScreenShots/About_NAG6.png)
 
