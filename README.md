@@ -60,6 +60,13 @@
 
 ## 更新日志
 
+- 11-13-2025
+
+  - 更新 `OpenCore` `v1.0.6`
+  - 支持 `Tahoe` (Intel 无线网卡) *博通目前暂时无法驱动*
+    - `Tahoe` 和 `Sequoia` 下使用`itlmw` + `HeliPort`的方法驱动
+  - `AppleALC` 需要使用`OpenCore Legacy Patcher` 打补丁,[下载](https://pan.daliansky.net/d/APPS/OCLP/OCLP-Mod_10-2-2025_for_Tahoe.pkg)
+  
 - 2-11-2025
 
   - 更新 `OpenCore` `v1.0.4` 开发版
